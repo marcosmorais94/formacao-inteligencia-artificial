@@ -24,3 +24,18 @@ Será usado o Torchvision para construir um modelo de Visão Computacional com a
 
 Fonte dos dados: https://www.kaggle.com/datasets/mahmoudreda55/satellite-image-classification
 
+## Estudo de Caso 1 - Funções de Ativação
+Em muitos problemas de Ciência de Dados, nem sem sempre a entrada X tem uma relação linear com a saída Y. Por exemplo, o preço de um imóvel tem n variáveis que podem influenciar para mais ou menos o preço de uma casa. Com uma análise padrão, nem sempre conseguimos achar alguma resposta clara de como é a relação em X com Y e então usamos as chamadas funções de ativação.
+
+As funções de ativação são usadas em modelos com Deep Learning para introduzir a não linearidade na análise preditiva. Ou seja, em muitos problemas temos uma relação não linear entre as variáveis preditoras e a variável target.
+
+Algumas das funções de ativação mais comuns incluem a ReLU (unidade linear retificada), a sigmóide e a tangente hiperbólica. O objetivo desse script é demonstrar na prática quais as principais diferentes entre elas na performance do modelo. Aa funções escolhidas foram ReLU, LeakyReLU, Sigmoid e Tanh.
+
+O objetivo deste repositório é demonstrar via Python as diferenças entre funções de ativação para análises com Deep Learning.
+
+## Estudo de Caso2 - Otimização e Inicialização com Redes Neurais
+Este Jupyter Notebook tem como objetivo a demonstração prática dos efeitos dos diferentes processos de inicialização e otimização para modelos com redes neurais.
+
+O processo de otimização em Deep Learning é o processo de encontrar os melhores pesos para a rede neural, de modo que ela possa realizar bem em tarefas específicas, como classificação ou regressão. Alguns exemplos são o SGD, Momentum e Adagrad.
+
+O processo de inicialização em Deep Learning é o processo de definir os valores iniciais dos pesos das camadas da rede neural antes do treinamento começar. A escolha adequada dos valores iniciais é importante para garantir que a rede converge para uma solução ótima durante o treinamento. Existem várias técnicas diferentes de inicialização, como inicialização aleatória, inicialização com zero, inicialização com valores pequenos próximos a zero, entre outras.
