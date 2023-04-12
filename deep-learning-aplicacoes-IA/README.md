@@ -33,7 +33,7 @@ Algumas das funções de ativação mais comuns incluem a ReLU (unidade linear r
 
 O objetivo deste repositório é demonstrar via Python as diferenças entre funções de ativação para análises com Deep Learning.
 
-## Estudo de Caso2 - Otimização e Inicialização com Redes Neurais
+## Estudo de Caso 2 - Otimização e Inicialização com Redes Neurais
 Este Jupyter Notebook tem como objetivo a demonstração prática dos efeitos dos diferentes processos de inicialização e otimização para modelos com redes neurais.
 
 O processo de otimização em Deep Learning é o processo de encontrar os melhores pesos para a rede neural, de modo que ela possa realizar bem em tarefas específicas, como classificação ou regressão. Alguns exemplos são o SGD, Momentum e Adagrad.
