@@ -11,7 +11,7 @@ Este Jupyter Notebook demonstra um exemplo prático de utilização de análise 
 
 
 ## Lab02 - Análise Preditiva com Reconhecimento de Imagens
-Este repositório demonstra um exemplo prático de utilização de análise preditiva com um modelo de redes neurais para reconhecimento de imagens. O exercício faz parte da formação Inteligência Artificial da Data Science Academy. O desafio do exercício foi a construção do framework para classificar as imagens.
+Este script demonstra um exemplo prático de utilização de análise preditiva com um modelo de redes neurais para reconhecimento de imagens. O exercício faz parte da formação Inteligência Artificial da Data Science Academy. O desafio do exercício foi a construção do framework para classificar as imagens.
 
 O modelo treinado passa por todas as etapas principais para preparação, treino e avaliação do modelo de machine learning. Neste exerício foi usando a linguagem Python. Este repositório tem como objetivo a demonstração de análise preditiva com Inteligência Artificial para reconhecimento de imagens.
 
@@ -31,7 +31,7 @@ As funções de ativação são usadas em modelos com Deep Learning para introdu
 
 Algumas das funções de ativação mais comuns incluem a ReLU (unidade linear retificada), a sigmóide e a tangente hiperbólica. O objetivo desse script é demonstrar na prática quais as principais diferentes entre elas na performance do modelo. Aa funções escolhidas foram ReLU, LeakyReLU, Sigmoid e Tanh.
 
-O objetivo deste repositório é demonstrar via Python as diferenças entre funções de ativação para análises com Deep Learning.
+O objetivo deste script é demonstrar via Python as diferenças entre funções de ativação para análises com Deep Learning.
 
 ## Estudo de Caso 2 - Otimização e Inicialização com Redes Neurais
 Este Jupyter Notebook tem como objetivo a demonstração prática dos efeitos dos diferentes processos de inicialização e otimização para modelos com redes neurais.
