@@ -8,3 +8,19 @@ Deep Learning é a principal técnica de Inteligência Artificial, com o framewo
 # Projetos do Curso
 ## Lab01 - Anatomia Rede Neural
 Este Jupyter Notebook demonstra um exemplo prático de utilização de análise preditiva com um modelo de redes neurais. O exercício faz parte da formação Inteligência Artificial da Data Science Academy. O modelo treinado passa por todas as etapas principais para preparação, treino e avaliação do modelo de rede neural. Neste exerício foi usando o Pytorch e o Ligthning com o uso de linguagem Python.
+
+
+## Lab02 - Análise Preditiva com Reconhecimento de Imagens
+Este repositório demonstra um exemplo prático de utilização de análise preditiva com um modelo de redes neurais para reconhecimento de imagens. O exercício faz parte da formação Inteligência Artificial da Data Science Academy. O desafio do exercício foi a construção do framework para classificar as imagens.
+
+O modelo treinado passa por todas as etapas principais para preparação, treino e avaliação do modelo de machine learning. Neste exerício foi usando a linguagem Python. Este repositório tem como objetivo a demonstração de análise preditiva com Inteligência Artificial para reconhecimento de imagens.
+
+Fonte dos dados: https://www.cs.toronto.edu/~kriz/cifar.html
+
+## Lab03 - Reconhecimento de Imagens de Satélite no Torchvision
+Neste Jupyter Notebook será utilizado técnicas de reconhecimento de imagens de satélite com Torchvision através da linguagem Python. Outro ponto desta análise é verificar o impacto e interpretação de diferentes funções de ativação na construção de um modelo de alta precisão.
+
+Será usado o Torchvision para construir um modelo de Visão Computacional com arquitetura de Deep Learning para classificar as imagens, avaliando o impacto e interpretação no uso de funções de ativação. Ao final teremos um modelo de classificação de imagens de satélites.
+
+Fonte dos dados: https://www.kaggle.com/datasets/mahmoudreda55/satellite-image-classification
+
